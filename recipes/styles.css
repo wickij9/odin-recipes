@@ -1,0 +1,47 @@
+h1, 
+h3 {
+    color: black;
+    font-family: arial, helvetica, sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    color: black;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.brown-butter {
+    color: black;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.blueberry-muffin {
+    color: blue;
+    font-family: 'times new roman', serif;
+    font-size: 16px;
+}
+
+.chocolate-brownie {
+    color: brown;
+    font-family: verdana, arial, sans-serif;
+    font-size: 14px;
+}
+
+.list {
+    color: red;
+    font-family: 'lucida console', monospace;
+    font-size: 20px;
+}
